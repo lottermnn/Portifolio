@@ -61,7 +61,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url('home_2.jpg') no-repeat;
+    background: url('./asstes/ico/home.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
