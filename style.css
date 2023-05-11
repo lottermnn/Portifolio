@@ -25,6 +25,7 @@ body {
 }
 
 .logo {
+    margin: 20px;
     position: relative;
     font-size: 25px;
     color: #ededed;
@@ -45,6 +46,7 @@ body {
 }
 
 .navbar a {
+    margin-right: 20px;
     font-size: 18px;
     color: #ededed;
     text-decoration: none;
