@@ -42,7 +42,7 @@ body {
     height: 100%;
     background: #081b29;
     animation: showRight 1s ease forwards;
-    animation-delay: .4s;
+    animation-delay: .2s;
 }
 
 .navbar a {
